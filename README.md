@@ -13,4 +13,4 @@ Codehorizon lists all the upcoming and ongoing competitive programming contests,
 
 Run and Enjoy :)
 
-**Made with love of Competitive Programming**
+**Made with love in Competitive Programming**
