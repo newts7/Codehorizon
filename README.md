@@ -1,4 +1,4 @@
-[Codehorizon.xyz](https://codehorizon.xyz)
+[Codehorizon.xyz](http://codehorizon.xyz)
 
 Hi,
 
